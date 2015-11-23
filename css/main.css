@@ -76,9 +76,15 @@ label {
 
 .twitter{
 	height: 50px;
+	position: relative;
+	display: inline;
+	right: 30px;
 
 }
 .instagram{
-	height: 50px;
+	height: 60px;
 	position: relative;
+	display: inline;
+	bottom: 115px;
+	left: 65px;
 }
